@@ -1,3 +1,3 @@
 # my-ppython
 this my firt repo 
-and beginig to github
+and beginig to Chetan
